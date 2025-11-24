@@ -49,12 +49,3 @@ Expense-Tracker<br>
 5. View Expense by Category
 6. Exit
 
-# Why This Project?
-
-This project solves a real-world problem by helping users track their finances without needing complex tools or databases. It is fully written in Python and ideal for beginners learning file handling, data structures, and modular programming.
-
-# Future Improvements
-- Edit/Delete transactions
-- Monthly spending reports
-- Category-wise pie charts
-- GUI version using Tkinter
